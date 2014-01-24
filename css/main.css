@@ -2,3 +2,16 @@ h1
 {
 	color: red;
 }
+
+#gameBoard
+{
+	width: 600;
+	height: 400;
+
+}
+
+#container
+{
+	border-color: red;
+	border-width: 1px;
+}
